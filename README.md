@@ -67,7 +67,3 @@ Using **graph coloring**, courses that share students are assigned to different 
 
 ---
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/exam-timetabling.git
